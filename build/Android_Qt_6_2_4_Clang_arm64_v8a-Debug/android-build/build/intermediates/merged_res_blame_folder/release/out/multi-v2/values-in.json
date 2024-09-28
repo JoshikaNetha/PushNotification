@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml",
+            "map": [
+                {
+                    "source": "/home/joshikanamani/Qt/6.2.4/android_arm64_v8a/src/android/java/res/values-in/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,168",
+                        "endColumns": "112,89",
+                        "endOffsets": "163,253"
+                    }
+                }
+            ]
+        }
+    ]
+}

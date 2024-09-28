@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/merged_res/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/merged_res/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/merged_res/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/merged_res/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/merged_res/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/build/intermediates/merged_res/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/home/joshikanamani/Desktop/NewProjects/PushNotification2/build/Android_Qt_6_2_4_Clang_arm64_v8a-Debug/android-build/res/drawable-xhdpi/icon.png"
+    }
+]
