@@ -12,6 +12,8 @@ AndroidInterface::AndroidInterface(QObject *parent)
 
     connect(this, &AndroidInterface::notificationChanged,
             this, &AndroidInterface::updateAndroidNotification);
+
+    setNotification("Namaskaram sarwadu");
 }
 
 void AndroidInterface::setNotification(const QString &notification)
@@ -32,7 +34,7 @@ QString AndroidInterface::notification() const
 void AndroidInterface::updateAndroidNotification()
 {
 #ifdef Q_OS_ANDROID
-    QJniObject string1 = QJniObject::fromString("String1");
+    QJniObject string1 = QJniObject::fromString(m_notification);
     QJniObject::callStaticMethod<void>(
         "com/pushnotification/MainActivity",
         "notify",

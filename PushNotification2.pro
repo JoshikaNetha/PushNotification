@@ -20,12 +20,12 @@ QML_DESIGNER_IMPORT_PATH =
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 
-target.path = $$[QT_INSTALL_EXAMPLES]/corelib/platform/androidnotifier
-INSTALLS += target
-!isEmpty(target.path): INSTALLS += target
+# target.path = $$[QT_INSTALL_EXAMPLES]/corelib/platform/androidnotifier
+# INSTALLS += target
+# !isEmpty(target.path): INSTALLS += target
 
-target.path = $$[QT_INSTALL_EXAMPLES]/corelib/platform/androidnotifier
-INSTALLS += target
+# target.path = $$[QT_INSTALL_EXAMPLES]/corelib/platform/androidnotifier
+# INSTALLS += target
 
 
 HEADERS += \

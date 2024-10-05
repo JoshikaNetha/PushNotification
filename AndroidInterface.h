@@ -20,7 +20,6 @@ private slots:
 private:
     QString m_notification;
 
-signals:
 };
 
 #endif // ANDROIDINTERFACE_H

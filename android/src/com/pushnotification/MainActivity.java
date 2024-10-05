@@ -29,11 +29,13 @@ public class MainActivity
             Bitmap icon = BitmapFactory.decodeResource(context.getResources(), R.drawable.icon);
             m_builder.setSmallIcon(R.drawable.icon)
                     .setLargeIcon(icon)
-                    .setContentTitle("A message from Qt!")
+                    .setContentTitle("A message from Joshika!")
                     .setContentText(message)
                     .setDefaults(Notification.DEFAULT_SOUND)
                     .setColor(Color.GREEN)
-                    .setAutoCancel(true);
+                    .setAutoCancel(true)
+                    .setPriority(Notification.PRIORITY_MAX)
+                    .setVisibility(Notification.VISIBILITY_PUBLIC) ;
 
             m_notificationManager.notify(0, m_builder.build());
         } catch (Exception e) {

@@ -13,7 +13,6 @@ ApplicationWindow {
     Rectangle{
         height:   parent.height * 0.3
         width:    height
-        radius:   height/2
         border.color:  "black"
         anchors.centerIn: parent
         Button{

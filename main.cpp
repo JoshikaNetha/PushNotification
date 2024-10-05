@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
         Qt::QueuedConnection);
     engine.load(url);
 
-    // qmlRegisterType<AndroidInterface>("AndroidInterface",1,0,"AndroidInterface");
+    // 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
 
     return app.exec();
 }
