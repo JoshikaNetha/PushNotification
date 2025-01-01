@@ -1,9 +1,0 @@
-com.pushnotification
-array bundled_libs
-array load_local_libs
-array qt_libs
-string bundle_local_qt_libs
-string fatal_error_msg
-string static_init_classes
-string unsupported_android_version
-string use_local_qt_libs
